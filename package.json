@@ -1,13 +1,9 @@
 {
   "name": "shoelace-ui-p",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Default `p` styles",
   "repository": "https://github.com/shoelace-ui/p.git",
-  "keywords": [
-    "shoelace",
-    "p",
-    "paragraph"
-  ],
+  "keywords": ["shoelace", "p", "paragraph"],
   "author": "Michael Andrew Vanasse <mail@mndvns.com>",
   "license": "MIT",
   "devDependencies": {
@@ -16,6 +12,6 @@
     "stylus": "^0.44.0"
   },
   "dependencies": {
-    "shoelace-ui-line-height": "git+https://github.com/shoelace-ui/line-height.git"
+    "shoelace-ui-line-height": "^0.1.0"
   }
 }

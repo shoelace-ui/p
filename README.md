@@ -5,5 +5,8 @@ Default `p` styles.
 ## Usage
 
 ```stylus
-@require 'p'
+@require 'shoelace-ui-p'
 ```
+## License
+
+MIT
